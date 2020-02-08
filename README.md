@@ -1,4 +1,5 @@
 # CRUD Gaji Programmer
+![Gambar](https://github.com/ahmadhabbuddin/salaryprogrammer/blob/master/img/1.png)
 
 ### Persiapan
 
@@ -16,15 +17,15 @@
 1. Klik tombol *Add* yang ada pada navbar
 2. Isi Data dengan lengkap
 3. Kemudian klik tombol *Add* yang ada dibawah popup
-![Gambar teks editor VS Code](https://www.petanikode.com/img/markdown/markdown-vscode.png)
+![Gambar contoh add data](https://github.com/ahmadhabbuddin/salaryprogrammer/blob/master/img/2.png)
 
 **Edit Data**
 1. Klik tombol *pencil* pada kolom action di table
 2. Silakan Edit data
 3. Kemudian klik tombol *Edit* yang ada dibawah popup
-![Gambar teks editor VS Code](https://www.petanikode.com/img/markdown/markdown-vscode.png)
+![Gambar contoh edit data](https://github.com/ahmadhabbuddin/salaryprogrammer/blob/master/img/4.png)
 
 **Hapus Data**
 1. Klik tombol *trash* pada kolom action di table
 2. Klik Yes untuk hapus cancel untuk membatalkan
-![Gambar teks editor VS Code](https://www.petanikode.com/img/markdown/markdown-vscode.png)
+![Gambar contoh delete data](https://github.com/ahmadhabbuddin/salaryprogrammer/blob/master/img/3.png)
