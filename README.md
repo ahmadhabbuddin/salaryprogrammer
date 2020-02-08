@@ -1,6 +1,6 @@
-#CRUD Gaji Programmer
+# CRUD Gaji Programmer
 
-###Persiapan
+### Persiapan
 
 **Siapkan Database**
 1. Buat database dengan nama programmer_salary_db
@@ -10,7 +10,7 @@
 1. Letakkan Folder Pada Localhost (xampp/htdocs) dengan nama salary-programmer
 2. Pastikan komputer/laptop terkoneksi ke internet
 
-###Cara Penggunaan
+### Cara Penggunaan
 
 **Insert Data Baru**
 1. Klik tombol *Add* yang ada pada navbar
