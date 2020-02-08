@@ -1,0 +1,4 @@
+SELECT name.nama as name, work.name as work, salary.salary
+FROM name
+JOIN work ON work.id = name.id_work
+JOIN salary ON salary.id = work.id_salary;
